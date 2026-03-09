@@ -1,3 +1,6 @@
+<!-- Banner Image -->
+![My Banner](https://your-image-link.com/banner.jpg)
+
 ## 💫 About Me:
 🧑‍🔬 Currently , I am a PCB student <br><br>🧑‍💻 I have been interested in exploring cybersecurity and tech-world since childhood<br><br>✨ I enjoy editing shorts or exploring new tech tools in my free time
 
