@@ -247,7 +247,7 @@ text
 ## 🎨 ADDITIONAL ASSETS (Optional)
 
 ### Animated GIF Banners
-```html
+html
 <!-- Add these to your profile README -->
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" />
 Badge Collection
