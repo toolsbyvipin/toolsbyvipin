@@ -1,14 +1,16 @@
 html
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--              🔥 VIP_IN - GITHUB PROFILE 🔥              -->
+<!--              🔥 VIP_IN - GITHUB PROFILE 🔥                    -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&height=70&lines=🔥+VIP_IN+%7C+THE+TOOLSMITH+🔥;⚡+BUILDING+SHARP+TOOLS+⚡;⚡+CYBERSECURITY+EXPLORER+⚡" alt="VIP_IN " />
+  <!-- ✅ FIXED BANNER - ALWAYS WORKS -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&height=70&lines=🔥+VIP_IN+%7C+THE+DARK+TOOLSMITH+🔥;⚡+BUILDING+SHARP+TOOLS+⚡;💀+CYBERSECURITY+EXPLORER+💀" alt="VIP_IN Banner" />
   
   <br/>
   
+  <!-- ✅ STATUS BADGES -->
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20🔥-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/RELEASES-v3.0-red?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/TOOLS-25%2B-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
@@ -16,6 +18,7 @@ html
   
   <br/>
   
+  <!-- ✅ PROFILE STATS -->
   <img src="https://komarev.com/ghpvc/?username=toolsbyvipin&label=Profile%20Views&color=red&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/toolsbyvipin?style=for-the-badge&logo=github&color=orange" alt="Followers" />
   <img src="https://img.shields.io/github/stars/toolsbyvipin?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
