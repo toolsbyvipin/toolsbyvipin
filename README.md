@@ -5,7 +5,6 @@ html
 
 <div align="center">
   
-  <!-- ✅ FIXED BANNER - ALWAYS WORKS -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&height=70&lines=🔥+VIP_IN+%7C+THE+TOOLSMITH+🔥;⚡+BUILDING+SHARP+TOOLS+⚡;💀+CYBERSECURITY+EXPLORER+💀" alt="VIP_IN Banner" />
   
   <br/>
@@ -62,8 +61,6 @@ html
       <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
         <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="250" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=toolsbyvipin&repo=YT-MUSIC&theme=radical&hide_border=true" width="100%" />
-        <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
           • Pure Audio Extraction<br/>
@@ -85,8 +82,6 @@ html
       </td>
       <td width="33%" align="center" style="border: 2px solid #FF69B4; border-radius: 10px; padding: 20px;">
         <img src="https://img.shields.io/badge/🎭%20PRANK%20TOOLS-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" width="250" />
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=toolsbyvipin&repo=PRANK&theme=radical&hide_border=true" width="100%" />
         <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
