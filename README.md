@@ -1,4 +1,3 @@
-🎯 COMPLETE UPDATED PROFILE - COPY PASTE READY
 html
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--              🔥 VIP_IN - GITHUB PROFILE 🔥              -->
