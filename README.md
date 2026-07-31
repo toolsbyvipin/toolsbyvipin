@@ -60,7 +60,6 @@ html
           <img src="https://img.shields.io/badge/🍴%20FORK-%234285F4?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      
       <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
         <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="250" />
         <br/><br/>
@@ -85,7 +84,6 @@ html
           <img src="https://img.shields.io/badge/🍴%20FORK-%234285F4?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      
       <td width="33%" align="center" style="border: 2px solid #FF69B4; border-radius: 10px; padding: 20px;">
         <img src="https://img.shields.io/badge/🎭%20PRANK%20TOOLS-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" width="250" />
         <br/><br/>
@@ -195,6 +193,7 @@ html
 ║   ⚡ "Freedom is not given - it is taken" ⚡                     ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
+```
 
 <!-- ════════════════════════════════════════════════════════════════ --><!-- 🌐 CONNECT WITH ME --><!-- ════════════════════════════════════════════════════════════════ -->
 🌐 CONNECT WITH ME
