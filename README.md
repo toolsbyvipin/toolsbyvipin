@@ -6,7 +6,7 @@ html
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&height=70&lines=🔥+VIP_IN+%7C+THE+TOOLSMITH+🔥;⚡+BUILDING+SHARP+TOOLS+⚡;💀+CYBERSECURITY+EXPLORER+💀" alt="VIP_IN " />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F7A100&center=true&vCenter=true&width=600&height=70&lines=🔥+VIP_IN+%7C+THE+TOOLSMITH+🔥;⚡+BUILDING+SHARP+TOOLS+⚡;CYBERSECURITY+EXPLORER " alt="VIP_IN " />
   
   <br/>
   
