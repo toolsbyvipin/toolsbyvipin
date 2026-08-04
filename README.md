@@ -196,30 +196,23 @@
 💻 TECH STACK
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /> <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></div>
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS - SIMPLIFIED VERSION                          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS - CUSTOM COLORS                               -->
+<!-- 📊 STATS VIA BADGES (NEVER FAILS)                             -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
   
-  <!-- ✅ CUSTOM COLOR STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&hide_border=true" width="48%" />
-  
-  <!-- ✅ CUSTOM COLOR STREAK -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=radical&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/⭐%20Total%20Stars-XXX-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/🍴%20Total%20Forks-XXX-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/👥%20Followers-XXX-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/📦%20Repos-25%2B-purple?style=for-the-badge&logo=github" />
   
   <br/><br/>
   
-  <!-- ✅ TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&hide_border=true" width="40%" />
-  
-  <!-- ✅ TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=toolsbyvipin&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="55%" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   
 </div>
 <!-- ════════════════════════════════════════════════════════════════ --><!-- 🎯 PROJECT SHOWCASE --><!-- ════════════════════════════════════════════════════════════════ -->
