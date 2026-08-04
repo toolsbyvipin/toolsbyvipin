@@ -71,7 +71,7 @@
         </p>
         <br/>
         <a href="https://github.com/toolsbyvipin/YT-MUSIC">
-          <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" width ="50%" />
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/⭐%20STAR-%23FFD700?style=for-the-badge&logo=github&logoColor=black" />
