@@ -199,23 +199,27 @@
 <!-- 📊 GITHUB STATS - SIMPLIFIED VERSION                          -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS - CUSTOM COLORS                               -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
   
-  <!-- ✅ STATS CARD - SIMPLE VERSION -->
-  <img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=radical" width="48%" />
+  <!-- ✅ CUSTOM COLOR STATS -->
+  <img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&hide_border=true" width="48%" />
   
-  <!-- ✅ STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=radical" width="48%" />
+  <!-- ✅ CUSTOM COLOR STREAK -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=radical&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" width="48%" />
   
   <br/><br/>
   
   <!-- ✅ TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9&hide_border=true" width="40%" />
   
   <!-- ✅ TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=toolsbyvipin&theme=radical&no-frame=true&row=1&column=6" width="55%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=toolsbyvipin&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="55%" />
   
 </div>
 <!-- ════════════════════════════════════════════════════════════════ --><!-- 🎯 PROJECT SHOWCASE --><!-- ════════════════════════════════════════════════════════════════ -->
