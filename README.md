@@ -195,13 +195,29 @@
 <!-- ════════════════════════════════════════════════════════════════ --><!-- 💻 TECH STACK --><!-- ════════════════════════════════════════════════════════════════ -->
 💻 TECH STACK
 <div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" /> <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></div>
-<!-- ════════════════════════════════════════════════════════════════ --><!-- 📊 GITHUB STATS --><!-- ════════════════════════════════════════════════════════════════ -->
-📊 GITHUB STATISTICS
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="48%" />
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS - SIMPLIFIED VERSION                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
+## 📊 GITHUB STATISTICS
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" width="40%" /> <img src="https://github-profile-trophy.vercel.app/?username=toolsbyvipin&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="55%" /></div>
+<div align="center">
+  
+  <!-- ✅ STATS CARD - SIMPLE VERSION -->
+  <img src="https://github-readme-stats.vercel.app/api?username=toolsbyvipin&show_icons=true&theme=radical" width="48%" />
+  
+  <!-- ✅ STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toolsbyvipin&theme=radical" width="48%" />
+  
+  <br/><br/>
+  
+  <!-- ✅ TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toolsbyvipin&layout=compact&theme=radical" width="40%" />
+  
+  <!-- ✅ TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=toolsbyvipin&theme=radical&no-frame=true&row=1&column=6" width="55%" />
+  
+</div>
 <!-- ════════════════════════════════════════════════════════════════ --><!-- 🎯 PROJECT SHOWCASE --><!-- ════════════════════════════════════════════════════════════════ -->
 🎯 PROJECT SHOWCASE
 <div align="center"> <table> <tr> <td align="center"> <img src="https://img.shields.io/badge/📥%20YT%20DOWNLOADER-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <br/> <sub>Download videos/music from YouTube with high quality</sub> <br/><br/> <a href="https://github.com/toolsbyvipin/YT-DOWNLOADER"> <img src="https://img.shields.io/badge/⭐%20Star-FFD700?style=flat-square&logo=github&logoColor=black" /> </a> <a href="https://github.com/toolsbyvipin/YT-DOWNLOADER/fork"> <img src="https://img.shields.io/badge/🍴%20Fork-4285F4?style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://github.com/toolsbyvipin/YT-DOWNLOADER/issues"> <img src="https://img.shields.io/badge/🐛%20Issues-FF0000?style=flat-square&logo=github&logoColor=white" /> </a> </td> <td align="center"> <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" /> <br/> <sub>Extract pure audio from YouTube with metadata</sub> <br/><br/> <a href="https://github.com/toolsbyvipin/YT-MUSIC"> <img src="https://img.shields.io/badge/⭐%20Star-FFD700?style=flat-square&logo=github&logoColor=black" /> </a> <a href="https://github.com/toolsbyvipin/YT-MUSIC/fork"> <img src="https://img.shields.io/badge/🍴%20Fork-4285F4?style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://github.com/toolsbyvipin/YT-MUSIC/issues"> <img src="https://img.shields.io/badge/🐛%20Issues-FF0000?style=flat-square&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td align="center"> <img src="https://img.shields.io/badge/🎭%20PRANK%20TOOLS-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" /> <br/> <sub>Collection of fun/educational system tools</sub> <br/><br/> <a href="https://github.com/toolsbyvipin/PRANK"> <img src="https://img.shields.io/badge/⭐%20Star-FFD700?style=flat-square&logo=github&logoColor=black" /> </a> <a href="https://github.com/toolsbyvipin/PRANK/fork"> <img src="https://img.shields.io/badge/🍴%20Fork-4285F4?style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://github.com/toolsbyvipin/PRANK/issues"> <img src="https://img.shields.io/badge/🐛%20Issues-FF0000?style=flat-square&logo=github&logoColor=white" /> </a> </td> <td align="center"> <img src="https://img.shields.io/badge/📚%20MORE%20TOOLS-00FF00?style=for-the-badge&logo=github&logoColor=black" /> <br/> <sub>Explore all my projects and repositories</sub> <br/><br/> <a href="https://github.com/toolsbyvipin?tab=repositories"> <img src="https://img.shields.io/badge/🔍%20View%20All-181717?style=flat-square&logo=github&logoColor=white" /> </a> </td> </tr> </table></div>
