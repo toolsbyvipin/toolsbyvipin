@@ -59,7 +59,7 @@
         </a>
       </td>
       <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
-        <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="250" />
+        <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="200" />
         <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
@@ -71,7 +71,7 @@
         </p>
         <br/>
         <a href="https://github.com/toolsbyvipin/YT-MUSIC">
-          <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" width ="50%" />
+          <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/⭐%20STAR-%23FFD700?style=for-the-badge&logo=github&logoColor=black" />
