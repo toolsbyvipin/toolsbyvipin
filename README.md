@@ -99,12 +99,6 @@
   </p>
   
   <br/>
-  
-  <!-- View Repo Button -->
-  <a href="https://github.com/toolsbyvipin/unDoom">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%230A0B0D?style=for-the-badge&logo=github&logoColor=00E5A0" />
-  </a>
-</td>
         </p>
         <br/>
         <a href="https://github.com/toolsbyvipin/unDoom">
