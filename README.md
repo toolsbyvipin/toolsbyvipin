@@ -48,7 +48,7 @@
           • Playlist Support
         </p>
         <br/>
-        <a href="https://github.com/toolsbyvipin/YT-DOWNLOADER">
+        <a href="https://github.com/toolsbyvipin/YT-DOWNLOADER-">
           <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -70,7 +70,7 @@
           • Playlist to MP3
         </p>
         <br/>
-        <a href="https://github.com/toolsbyvipin/YT-MUSIC">
+        <a href="https://github.com/toolsbyvipin/Yt-Music-Dl">
           <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
