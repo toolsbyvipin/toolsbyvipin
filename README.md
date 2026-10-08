@@ -102,8 +102,7 @@
         <img src="https://img.shields.io/badge/🍴%20FORK-%231F2329?style=for-the-badge&logo=github&logoColor=00E5A0" />
         </a>
         
-      </td>
-    </tr>
+    
   </table>
   
 </div>
