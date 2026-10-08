@@ -92,15 +92,16 @@
           • Ghost Attacker
         </p>
         <br/>
-        <a href="https://github.com/toolsbyvipin/PRANK">
-          <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+        <a href="https://github.com/toolsbyvipin/unDoom">
+       <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%230A0B0D?style=for-the-badge&logo=github&logoColor=00E5A0" />
+       </a>
+       <a href="https://github.com/toolsbyvipin/unDoom/stargazers">
+       <img src="https://img.shields.io/badge/⭐%20STAR-%2300E5A0?style=for-the-badge&logo=github&logoColor=black" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/⭐%20STAR-%23FFD700?style=for-the-badge&logo=github&logoColor=black" />
+       <a href="https://github.com/toolsbyvipin/unDoom/fork">
+        <img src="https://img.shields.io/badge/🍴%20FORK-%231F2329?style=for-the-badge&logo=github&logoColor=00E5A0" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/🍴%20FORK-%234285F4?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        
       </td>
     </tr>
   </table>
