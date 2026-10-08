@@ -80,16 +80,31 @@
           <img src="https://img.shields.io/badge/🍴%20FORK-%234285F4?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      <td width="33%" align="center" style="border: 2px solid #FF69B4; border-radius: 10px; padding: 20px;">
-        <img src="https://img.shields.io/badge/🎭%20PRANK%20TOOLS-%23FF69B4?style=for-the-badge&logo=github&logoColor=white" width="250" />
-        <br/><br/>
-        <p align="left">
-          <b>⚡ Features:</b><br/>
-          • System Audio Flooder<br/>
-          • Cursor Chaos Generator<br/>
-          • Storage Flooder<br/>
-          • Application Launcher<br/>
-          • Ghost Attacker
+<td width="33%" align="center" style="border: 2px solid #00E5A0; border-radius: 10px; padding: 20px; background: #0A0B0D;">
+  <!-- unDoom Badge -->
+  <img src="https://img.shields.io/badge/🔒%20unDoom-%230A0B0D?style=for-the-badge&logo=github&logoColor=00E5A0" width="250" />
+  
+  <br/><br/>
+  
+  <!-- Features List -->
+  <p align="left" style="color: #E8EAED;">
+    <b>⚡ Features:</b><br/>
+    • Focus Protocol<br/>
+    • YouTube Cleanup<br/>
+    • Telegram Read-Only<br/>
+    • Ad & Popup Shield<br/>
+    • Phishing Shield<br/>
+    • Focus Lock<br/>
+    • Study Stats
+  </p>
+  
+  <br/>
+  
+  <!-- View Repo Button -->
+  <a href="https://github.com/toolsbyvipin/unDoom">
+    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPO-%230A0B0D?style=for-the-badge&logo=github&logoColor=00E5A0" />
+  </a>
+</td>
         </p>
         <br/>
         <a href="https://github.com/toolsbyvipin/unDoom">
