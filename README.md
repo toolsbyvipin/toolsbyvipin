@@ -82,7 +82,6 @@
       </td>
 <td width="33%" align="center" style="border: 2px solid #00E5A0; border-radius: 10px; padding: 20px; background: #0A0B0D;">
   <!-- unDoom Badge -->
-  <br/>
   <img src="https://img.shields.io/badge/🔒%20unDoom-%230A0B0D?style=for-the-badge&logo=github&logoColor=00E5A0" width="250" />
   <br/> <br/>
   <!-- Features List -->
@@ -108,6 +107,8 @@
        <a href="https://github.com/toolsbyvipin/unDoom/fork">
         <img src="https://img.shields.io/badge/🍴%20FORK-%231F2329?style=for-the-badge&logo=github&logoColor=00E5A0" />
         </a>
+       </td>
+        <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
         
     
   </table>
