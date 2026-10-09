@@ -59,7 +59,7 @@
         </a>
       </td>
       <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
-        <img src="https://img.shields.io/badge/%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="200" />
+        <img src="https://img.shields.io/badge/%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="180" />
         <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
