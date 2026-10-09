@@ -92,8 +92,6 @@
     • Telegram Read-Only<br/>
     • Ad & Popup Shield<br/>
     • Phishing Shield<br/>
-    • Focus Lock<br/>
-    • Study Stats
   </p>
         </p>
         <br/>
