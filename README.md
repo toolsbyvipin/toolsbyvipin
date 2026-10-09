@@ -95,7 +95,6 @@
     • Focus Lock<br/>
     • Study Stats
   </p>
-  <br/>
         </p>
         <br/>
         <a href="https://github.com/toolsbyvipin/unDoom">
