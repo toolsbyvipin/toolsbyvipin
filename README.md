@@ -37,7 +37,7 @@
   <table>
     <tr>
       <td width="33%" align="center" style="border: 2px solid #FF4500; border-radius: 10px; padding: 20px;">
-        <img src="https://img.shields.io/badge/📥%20YT%20DOWNLOADER-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="250" />
+        <img src="https://img.shields.io/badge/%20YT%20DOWNLOADER-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="250" />
         <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
@@ -59,7 +59,7 @@
         </a>
       </td>
       <td width="33%" align="center" style="border: 2px solid #1DB954; border-radius: 10px; padding: 20px;">
-        <img src="https://img.shields.io/badge/🎵%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="200" />
+        <img src="https://img.shields.io/badge/%20YT%20MUSIC-%231DB954?style=for-the-badge&logo=youtubemusic&logoColor=white" width="200" />
         <br/><br/>
         <p align="left">
           <b>⚡ Features:</b><br/>
